@@ -1,0 +1,15 @@
+[package]
+name = "Focus_2027"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+compact_str = "0.10"
+rumqttc = "0.25" 
+bytes = "1.7"
+
+opcua = "0.12"
+tokio = { version = "1", features = ["full"] }
+
+tracing = "0.1.44"
+thiserror = "2.0.20"
