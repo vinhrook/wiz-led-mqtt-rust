@@ -1,6 +1,6 @@
 Live Hardware Demo
 
-[![Watch the demo].     https://youtu.be/ikOKeTT2Fxw  https://drive.google.com/file/d/1ugoRTyFJCauZB6zu2xwPddAHOznhOMTu/view?usp=sharing
+[![Watch the demo].  😊😊 https://drive.google.com/file/d/1ugoRTyFJCauZB6zu2xwPddAHOznhOMTu/view?usp=sharing
 (Color reflection on the laptop in this video) 
 *(Click above to watch the LED react in real-time to MQTT terminal commands)* 
 
