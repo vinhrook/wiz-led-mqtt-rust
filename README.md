@@ -1,8 +1,8 @@
 Live Hardware Demo
 
 [![Watch the demo].     https://youtu.be/ikOKeTT2Fxw
-
-*(Click above to watch the physical LED react in real-time to MQTT terminal commands)*
+(Colour Reflection ona laptop in Video) 
+*(Click above to watch the LED react in real-time to MQTT terminal commands)* 
 
 
 # Smart LED Controller & MQTT IoT Bridge (Rust)
