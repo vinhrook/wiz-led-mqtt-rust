@@ -1,6 +1,6 @@
 Live Hardware Demo
 
-[![Watch the demo](https://youtu.be/ikOKeTT2Fxw)
+[![Watch the demo].     https://youtu.be/ikOKeTT2Fxw
 
 *(Click above to watch the physical LED react in real-time to MQTT terminal commands)*
 
